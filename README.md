@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Ringo-li
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in to be better
+- 🌱 I’m currently learning related to AI
+- 📫 Reach me: ry.li@qq.com
+  
 ![](https://github-readme-stats.vercel.app/api?username=Ringo-li&show_icons=true&count_private=true&theme=vue&hide=issues)
-<!---
-Ringo-li/Ringo-li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
